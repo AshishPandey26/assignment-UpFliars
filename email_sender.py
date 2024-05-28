@@ -3,6 +3,8 @@ import smtplib
 email = input("Sender Email : ")
 receiver_email = input("Receiver Email : ")
 
+
+
 subject = input("SUbject : ")
 message = input("Message : ")
 
